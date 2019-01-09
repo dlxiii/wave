@@ -1,0 +1,54 @@
+CONTEC DATA LOGGER
+Version,4480
+InputType,0
+Channels,3
+Device,AIO-163202FX-USB
+Clock,1
+ClockUnit,1
+ScanClock,2.000000
+SamplingType,0
+SamplingTimes,10000
+TriggerType,0
+TriggerCH,0
+TriggerValue,0.000000
+TriggerLevel,0
+DelayTime,60
+TriggerLevelValue1,1.000000
+TriggerLevelValue2,0.000000
+TriggerStateTimes,1
+AutoSave,0
+FileName,NewFile
+FileFullPath,C:\Users\WANG
+FileType,1
+SendToExcel,0
+ExcelWriteDate,1
+ExcelWriteChTitle,48
+AlarmSubject,Subject
+AlarmText,Text
+Sequence,0
+DeviceCh,1
+ChannelName,Channel 1
+Range,0
+Scaling,0
+RawDataA,-10.000000
+RawDataB,10.000000
+ScaleDataA,-10.000000
+ScaleDataB,10.000000
+Sequence,1
+DeviceCh,2
+ChannelName,Channel 2
+Range,0
+Scaling,0
+RawDataA,-10.000000
+RawDataB,10.000000
+ScaleDataA,-10.000000
+ScaleDataB,10.000000
+Sequence,2
+DeviceCh,3
+ChannelName,Channel 3
+Range,0
+Scaling,0
+RawDataA,-10.000000
+RawDataB,10.000000
+ScaleDataA,-10.000000
+ScaleDataB,10.000000
