@@ -1,4 +1,4 @@
-# wave
+# To wave maker user in Okayasu Lab
 
 ## Introduction
 
